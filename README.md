@@ -39,11 +39,10 @@ This project is part of my internship with Brainwave Matrix Solutions.
 
 📎 Files Included:
 - Sales_Analysis.ipynb: Main Jupyter Notebook with analysis
-- SampleSuperstore.xls: Raw dataset used
+- Sample- Superstore.xls(Superstore.xls.csv.xlsx): Raw dataset used
 - Sales_Analysis_Presentation.pptx: Summary of findings in slide format
-- README.md: Project documentation
 
-
+  
 🙋 About Me:
    Name: Gudipati Meenakshi  
   📧 Email:gudipatimeenakshi2654@gmail.com
