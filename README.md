@@ -51,16 +51,16 @@ This project analyzes public sentiment towards a product (e.g., iPhone 15) using
   - Sentiment distribution (Pie chart)
   - Sentiment trend over time (Line graph)
   - WordCloud of most used words in positive tweets (fallback for all tweets if none positive)
-  - 
+    
 ## 🛠️ Tech Stack
 - Python (Pandas, Matplotlib, WordCloud, TextBlob)
 - Jupyter Notebook
 - Sample CSV dataset (offline-friendly)
-- 
+  
 ## 🧾 Files Included
 - `Twitter_Sentiment_Analysis.ipynb` – Complete Jupyter notebook with analysis
 - `sample_tweets.csv` – Simulated tweet dataset for offline use
-- 
+  
 ## 📈 How It Works
 1. Load tweet dataset
 2. Clean and normalize text (remove URLs, hashtags, punctuation, etc.)
